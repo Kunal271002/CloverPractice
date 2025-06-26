@@ -7,5 +7,5 @@ for i in range(len(Array1)-1):
     else:
         Answer = False
         break
-
+print(Answer)
 print(Answer)
